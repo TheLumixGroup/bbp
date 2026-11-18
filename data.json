@@ -1,0 +1,403 @@
+{
+  "generated": "2026-11-18T20:00:00.000Z",
+  "source": "Asana",
+  "hub": null,
+  "pillars": [
+    {
+      "name": "Storage Content",
+      "articles": [
+        {
+          "name": "Article: How natural gas storage works",
+          "due": "2027-01-07",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: How natural gas storage works", "due": "2026-12-17", "completed": false},
+            {"name": "[Review] Client review: How natural gas storage works", "due": "2027-01-04", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: How natural gas storage works", "due": "2027-01-07", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: How natural gas storage works", "due": "2027-01-08", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Salt caverns, depleted reservoirs, and aquifers",
+          "due": "2027-03-18",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Salt caverns, depleted reservoirs, and aquifers", "due": "2027-02-25", "completed": false},
+            {"name": "[Review] Client review: Salt caverns, depleted reservoirs, and aquifers", "due": "2027-03-11", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Salt caverns, depleted reservoirs, and aquifers", "due": "2027-03-18", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Salt caverns, depleted reservoirs, and aquifers", "due": "2027-03-19", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: What winter storms showed about storage",
+          "due": "2027-05-27",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: What winter storms showed about storage", "due": "2027-05-06", "completed": false},
+            {"name": "[Review] Client review: What winter storms showed about storage", "due": "2027-05-20", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: What winter storms showed about storage", "due": "2027-05-27", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: What winter storms showed about storage", "due": "2027-05-28", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: How storage operators get paid",
+          "due": "2027-08-05",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: How storage operators get paid", "due": "2027-07-15", "completed": false},
+            {"name": "[Review] Client review: How storage operators get paid", "due": "2027-07-29", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: How storage operators get paid", "due": "2027-08-05", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: How storage operators get paid", "due": "2027-08-06", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Why Gulf Coast storage sits where it does",
+          "due": "2027-10-14",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Why Gulf Coast storage sits where it does", "due": "2027-09-23", "completed": false},
+            {"name": "[Review] Client review: Why Gulf Coast storage sits where it does", "due": "2027-10-07", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Why Gulf Coast storage sits where it does", "due": "2027-10-14", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Why Gulf Coast storage sits where it does", "due": "2027-10-15", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sour Gas Treating Content",
+      "articles": [
+        {
+          "name": "Article: What sour gas is and why H2S gets removed",
+          "due": "2027-01-21",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: What sour gas is and why H2S gets removed", "due": "2026-12-23", "completed": false},
+            {"name": "[Review] Client review: What sour gas is and why H2S gets removed", "due": "2027-01-14", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: What sour gas is and why H2S gets removed", "due": "2027-01-21", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: What sour gas is and why H2S gets removed", "due": "2027-01-22", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: How sour gas treating works",
+          "due": "2027-04-01",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: How sour gas treating works", "due": "2027-03-11", "completed": false},
+            {"name": "[Review] Client review: How sour gas treating works", "due": "2027-03-25", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: How sour gas treating works", "due": "2027-04-01", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: How sour gas treating works", "due": "2027-04-02", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Texas H2S rules in practice",
+          "due": "2027-06-10",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Texas H2S rules in practice", "due": "2027-05-20", "completed": false},
+            {"name": "[Review] Client review: Texas H2S rules in practice", "due": "2027-06-03", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Texas H2S rules in practice", "due": "2027-06-10", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Texas H2S rules in practice", "due": "2027-06-11", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Sour gas in the Permian and treating capacity",
+          "due": "2027-10-21",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Sour gas in the Permian and treating capacity", "due": "2027-09-30", "completed": false},
+            {"name": "[Review] Client review: Sour gas in the Permian and treating capacity", "due": "2027-10-14", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Sour gas in the Permian and treating capacity", "due": "2027-10-21", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Sour gas in the Permian and treating capacity", "due": "2027-10-22", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: What happens to the sulfur",
+          "due": "2027-08-12",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: What happens to the sulfur", "due": "2027-07-22", "completed": false},
+            {"name": "[Review] Client review: What happens to the sulfur", "due": "2027-08-05", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: What happens to the sulfur", "due": "2027-08-12", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: What happens to the sulfur", "due": "2027-08-13", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Midstream Content",
+      "articles": [
+        {
+          "name": "Article: What midstream means",
+          "due": "2027-01-28",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: What midstream means", "due": "2027-01-07", "completed": false},
+            {"name": "[Review] Client review: What midstream means", "due": "2027-01-21", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: What midstream means", "due": "2027-01-28", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: What midstream means", "due": "2027-01-29", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: What happens inside a gas processing plant",
+          "due": "2027-04-08",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: What happens inside a gas processing plant", "due": "2027-03-18", "completed": false},
+            {"name": "[Review] Client review: What happens inside a gas processing plant", "due": "2027-04-01", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: What happens inside a gas processing plant", "due": "2027-04-08", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: What happens inside a gas processing plant", "due": "2027-04-09", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Fee-based vs commodity-exposed midstream",
+          "due": "2027-06-17",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Fee-based vs commodity-exposed midstream", "due": "2027-05-27", "completed": false},
+            {"name": "[Review] Client review: Fee-based vs commodity-exposed midstream", "due": "2027-06-10", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Fee-based vs commodity-exposed midstream", "due": "2027-06-17", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Fee-based vs commodity-exposed midstream", "due": "2027-06-18", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Why producers choose a regional midstream operator",
+          "due": "2027-08-26",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Why producers choose a regional midstream operator", "due": "2027-08-05", "completed": false},
+            {"name": "[Review] Client review: Why producers choose a regional midstream operator", "due": "2027-08-19", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Why producers choose a regional midstream operator", "due": "2027-08-26", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Why producers choose a regional midstream operator", "due": "2027-08-27", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: When a basin outgrows its takeaway capacity",
+          "due": "2027-11-04",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: When a basin outgrows its takeaway capacity", "due": "2027-10-14", "completed": false},
+            {"name": "[Review] Client review: When a basin outgrows its takeaway capacity", "due": "2027-10-28", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: When a basin outgrows its takeaway capacity", "due": "2027-11-04", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: When a basin outgrows its takeaway capacity", "due": "2027-11-05", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asset Integrity Content",
+      "articles": [
+        {
+          "name": "Article: How pipelines are inspected",
+          "due": "2027-02-11",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: How pipelines are inspected", "due": "2027-01-21", "completed": false},
+            {"name": "[Review] Client review: How pipelines are inspected", "due": "2027-02-04", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: How pipelines are inspected", "due": "2027-02-11", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: How pipelines are inspected", "due": "2027-02-12", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Corrosion in sour and wet gas service",
+          "due": "2027-04-22",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Corrosion in sour and wet gas service", "due": "2027-04-01", "completed": false},
+            {"name": "[Review] Client review: Corrosion in sour and wet gas service", "due": "2027-04-15", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Corrosion in sour and wet gas service", "due": "2027-04-22", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Corrosion in sour and wet gas service", "due": "2027-04-23", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: PHMSA integrity management in plain terms",
+          "due": "2027-07-01",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: PHMSA integrity management in plain terms", "due": "2027-06-10", "completed": false},
+            {"name": "[Review] Client review: PHMSA integrity management in plain terms", "due": "2027-06-24", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: PHMSA integrity management in plain terms", "due": "2027-07-01", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: PHMSA integrity management in plain terms", "due": "2027-07-02", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: From inspection data to repair-or-replace",
+          "due": "2027-09-09",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: From inspection data to repair-or-replace", "due": "2027-08-19", "completed": false},
+            {"name": "[Review] Client review: From inspection data to repair-or-replace", "due": "2027-09-02", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: From inspection data to repair-or-replace", "due": "2027-09-09", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: From inspection data to repair-or-replace", "due": "2027-09-10", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: What integrity records tell a buyer",
+          "due": "2027-11-18",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: What integrity records tell a buyer", "due": "2027-10-28", "completed": false},
+            {"name": "[Review] Client review: What integrity records tell a buyer", "due": "2027-11-11", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: What integrity records tell a buyer", "due": "2027-11-18", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: What integrity records tell a buyer", "due": "2027-11-19", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Industrial Controls Content",
+      "articles": [
+        {
+          "name": "Article: What a VFD does on a pump or compressor",
+          "due": "2027-02-25",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: What a VFD does on a pump or compressor", "due": "2027-02-04", "completed": false},
+            {"name": "[Review] Client review: What a VFD does on a pump or compressor", "due": "2027-02-18", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: What a VFD does on a pump or compressor", "due": "2027-02-25", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: What a VFD does on a pump or compressor", "due": "2027-02-26", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: SCADA and PLCs: remote control of plants and pipelines",
+          "due": "2027-05-06",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: SCADA and PLCs: remote control of plants and pipelines", "due": "2027-04-15", "completed": false},
+            {"name": "[Review] Client review: SCADA and PLCs: remote control of plants and pipelines", "due": "2027-04-29", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: SCADA and PLCs: remote control of plants and pipelines", "due": "2027-05-06", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: SCADA and PLCs: remote control of plants and pipelines", "due": "2027-05-07", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Retrofitting controls on older facilities",
+          "due": "2027-07-08",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Retrofitting controls on older facilities", "due": "2027-06-17", "completed": false},
+            {"name": "[Review] Client review: Retrofitting controls on older facilities", "due": "2027-07-01", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Retrofitting controls on older facilities", "due": "2027-07-08", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Retrofitting controls on older facilities", "due": "2027-07-09", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: How variable speed drives cut power use",
+          "due": "2027-09-16",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: How variable speed drives cut power use", "due": "2027-08-26", "completed": false},
+            {"name": "[Review] Client review: How variable speed drives cut power use", "due": "2027-09-09", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: How variable speed drives cut power use", "due": "2027-09-16", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: How variable speed drives cut power use", "due": "2027-09-17", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Operational technology security for pipeline operators",
+          "due": "2027-12-02",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Operational technology security for pipeline operators", "due": "2027-11-11", "completed": false},
+            {"name": "[Review] Client review: Operational technology security for pipeline operators", "due": "2027-11-24", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Operational technology security for pipeline operators", "due": "2027-12-02", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Operational technology security for pipeline operators", "due": "2027-12-03", "completed": false}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI Operating Efficiency Content",
+      "articles": [
+        {
+          "name": "Article: How continuous emissions monitoring works",
+          "due": "2027-03-04",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: How continuous emissions monitoring works", "due": "2027-02-11", "completed": false},
+            {"name": "[Review] Client review: How continuous emissions monitoring works", "due": "2027-02-25", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: How continuous emissions monitoring works", "due": "2027-03-04", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: How continuous emissions monitoring works", "due": "2027-03-05", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Methane detection compared",
+          "due": "2027-05-13",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Methane detection compared", "due": "2027-04-22", "completed": false},
+            {"name": "[Review] Client review: Methane detection compared", "due": "2027-05-06", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Methane detection compared", "due": "2027-05-13", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Methane detection compared", "due": "2027-05-14", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Where AI shows up in field operations today",
+          "due": "2027-09-30",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Where AI shows up in field operations today", "due": "2027-09-09", "completed": false},
+            {"name": "[Review] Client review: Where AI shows up in field operations today", "due": "2027-09-23", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Where AI shows up in field operations today", "due": "2027-09-30", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Where AI shows up in field operations today", "due": "2027-10-01", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: What sensor data tells an operator before equipment fails",
+          "due": "2027-07-22",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: What sensor data tells an operator before equipment fails", "due": "2027-07-01", "completed": false},
+            {"name": "[Review] Client review: What sensor data tells an operator before equipment fails", "due": "2027-07-15", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: What sensor data tells an operator before equipment fails", "due": "2027-07-22", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: What sensor data tells an operator before equipment fails", "due": "2027-07-23", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Turning monitoring data into leak detection and repair reports",
+          "due": "2027-12-16",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Turning monitoring data into leak detection and repair reports", "due": "2027-11-24", "completed": false},
+            {"name": "[Review] Client review: Turning monitoring data into leak detection and repair reports", "due": "2027-12-09", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Turning monitoring data into leak detection and repair reports", "due": "2027-12-16", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Turning monitoring data into leak detection and repair reports", "due": "2027-12-17", "completed": false}
+          ]
+        }
+      ]
+    }
+  ],
+  "standalone": [],
+  "company": [
+    {
+      "name": "Company: Portfolio Acquisition 1 (name TBD)",
+      "due": "2026-12-08",
+      "completed": false,
+      "tasks": [
+        {"name": "[LinkedIn] LinkedIn Post: Portfolio Acquisition 1 (name TBD)", "due": "2026-12-08", "completed": false}
+      ]
+    },
+    {
+      "name": "Company: Portfolio Acquisition 2 (name TBD)",
+      "due": "2026-12-15",
+      "completed": false,
+      "tasks": [
+        {"name": "[LinkedIn] LinkedIn Post: Portfolio Acquisition 2 (name TBD)", "due": "2026-12-15", "completed": false}
+      ]
+    },
+    {
+      "name": "Company: Holiday and Community Volunteering",
+      "due": "2026-12-22",
+      "completed": false,
+      "tasks": [
+        {"name": "[LinkedIn] LinkedIn Post: Holiday and Community Volunteering", "due": "2026-12-22", "completed": false}
+      ]
+    },
+    {
+      "name": "Company: 2026 Year in Review",
+      "due": "2027-01-05",
+      "completed": false,
+      "tasks": [
+        {"name": "[LinkedIn] LinkedIn Post: 2026 Year in Review", "due": "2027-01-05", "completed": false}
+      ]
+    }
+  ],
+  "social": []
+}
