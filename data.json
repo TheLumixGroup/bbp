@@ -329,17 +329,6 @@
           ]
         },
         {
-          "name": "Article: Where AI shows up in field operations today",
-          "due": "2027-09-30",
-          "completed": false,
-          "tasks": [
-            {"name": "[Web] Draft: Where AI shows up in field operations today", "due": "2027-09-09", "completed": false},
-            {"name": "[Review] Client review: Where AI shows up in field operations today", "due": "2027-09-23", "completed": false},
-            {"name": "[Web] Publish + add to hub feed: Where AI shows up in field operations today", "due": "2027-09-30", "completed": false},
-            {"name": "[LinkedIn] LinkedIn Post: Where AI shows up in field operations today", "due": "2027-10-01", "completed": false}
-          ]
-        },
-        {
           "name": "Article: What sensor data tells an operator before equipment fails",
           "due": "2027-07-22",
           "completed": false,
@@ -348,6 +337,17 @@
             {"name": "[Review] Client review: What sensor data tells an operator before equipment fails", "due": "2027-07-15", "completed": false},
             {"name": "[Web] Publish + add to hub feed: What sensor data tells an operator before equipment fails", "due": "2027-07-22", "completed": false},
             {"name": "[LinkedIn] LinkedIn Post: What sensor data tells an operator before equipment fails", "due": "2027-07-23", "completed": false}
+          ]
+        },
+        {
+          "name": "Article: Where AI shows up in field operations today",
+          "due": "2027-09-30",
+          "completed": false,
+          "tasks": [
+            {"name": "[Web] Draft: Where AI shows up in field operations today", "due": "2027-09-09", "completed": false},
+            {"name": "[Review] Client review: Where AI shows up in field operations today", "due": "2027-09-23", "completed": false},
+            {"name": "[Web] Publish + add to hub feed: Where AI shows up in field operations today", "due": "2027-09-30", "completed": false},
+            {"name": "[LinkedIn] LinkedIn Post: Where AI shows up in field operations today", "due": "2027-10-01", "completed": false}
           ]
         },
         {
